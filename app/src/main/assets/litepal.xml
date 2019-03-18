@@ -1,0 +1,12 @@
+<litepal>
+    <dbname value="BookStore">
+    </dbname>
+
+    <version value="1"></version>
+    <list>
+        <mapping class="com.example.lastfighter.mywheather.db.City"></mapping>
+        <mapping class="com.example.lastfighter.mywheather.db.County"></mapping>
+        <mapping class="com.example.lastfighter.mywheather.db.Province"></mapping>
+
+    </list>
+</litepal>
